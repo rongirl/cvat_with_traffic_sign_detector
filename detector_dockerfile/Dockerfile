@@ -1,4 +1,4 @@
-ROM ubuntu:22.04
+FROM ubuntu:22.04
 
 # Build arguments
 ARG UBUNTU_RELEASE_YEAR
